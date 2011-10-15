@@ -2,3 +2,45 @@
 	- Sum, Subtraction, Multiplication and Division
 	- Ex:
 		"(12 + 16) * 84 / 20" --> Result
+		
+
+Participantes:
+	- Carlos
+	- Fer
+	- Karinne
+	- Fernandinho
+	- Brunão
+	- Pessoa
+	- Mosca
+	- Coutinho
+	- Bassani
+	- Lino
+	- Hagrid
+	- Fabs
+	
+	=]
+		- Galera passou a conhecer o Dojo
+		- HandsOn é bom
+			- GitHub 
+		- JUnit é tranqs
+	
+	=[
+		- 10 minutos é muito pouco pra trabalhar num código
+		- Não ter o ambiente atrapalhou.
+		- Faltou duas duplas
+			- Galera do RICO não veio
+		- Não saber quais eram os CodeSmells foi ruim
+		- PingPong não fluiu muito bem
+		- Nem todo mundo programou no Dojo
+			
+			
+	Sugestões:
+		- Podíamos programar alcoolizados
+		- Devíamos divulgar/conhecer mais refactorings/DesignPatterns/Melhores Práticas
+			- Fazer um DayRumble ou WeekendRumble
+			- De quinze em quinze dias galera se reunir pra discutir/apresentar algo
+				- Bassani será o Primeiro (18/10 14h-15h) sobre PMD
+		- Galera quer saber mais sobre Testes:
+			- Mocks - Mockito
+			- Unit - JUnit
+			- TDD

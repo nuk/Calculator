@@ -34,4 +34,9 @@ public class CalculatorTest {
 		assertEquals(4,c.solve("1+1+2"));
 		assertEquals(5,c.solve("1+1+2+1"));
 	}
+	
+	@Test
+	public void shouldSubtractMultipleIntegers(){
+		assertEquals(1, c.solve("3-2"));
+	}
 }
